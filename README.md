@@ -4,9 +4,8 @@ Markdown (marked.js) + MathJax HTML preview file.
 
 ## Demo
 
-https://andrzejQ.github.io/markdown-mathjax/editor/md-mhj.html
+- <https://andrzejQ.github.io/markdown-mathjax/editor/md-mhj.html>
 
 ## Source
 
-https://github.com/andrzejQ/markdown-mathjax
-
+- <https://github.com/andrzejQ/markdown-mathjax>
