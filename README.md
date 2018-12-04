@@ -1,5 +1,6 @@
-markdown+mathjax demo - andrzejQ.github.io
-================
+markdown+mathjax demo
+==================================
+
 Markdown (marked.js) + MathJax HTML preview file.
 
 - Demo:
@@ -7,3 +8,16 @@ Markdown (marked.js) + MathJax HTML preview file.
 - Source:
 	- <https://github.com/andrzejQ/markdown-mathjax>
 
+jekyll_1 test
+==================================
+
+Jekyll kramdown + mathjax (tex2jax, asciimath2jax) test
+
+- https://andrzejq.github.io/jekyll_1/
+
+Jekyll_app1htmlFile
+==================================
+
+1-plikowe aplikacje html
+
+- https://andrzejq.github.io/Jekyll_app1htmlFile/
