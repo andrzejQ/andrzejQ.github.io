@@ -1,4 +1,4 @@
-markdown+mathjax demo
+markdown+mathjax in-browser editor/viewer
 ==================================
 
 Markdown (marked.js) + MathJax HTML preview file.
