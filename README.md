@@ -8,12 +8,22 @@ Markdown (marked.js) + MathJax HTML preview file.
 - Source:
 	- <https://github.com/andrzejQ/markdown-mathjax>
 
-jekyll_1 test
+jekyll + mathjax test
 ==================================
 
 Jekyll kramdown + mathjax (tex2jax, asciimath2jax) test
 
 - <https://andrzejq.github.io/jekyll_1/>
+
+
+Office_S_Tips
+==================================
+
+Drobne podpowiedzi dotyczące obsługi programów biurowych
+
+- <https://andrzejq.github.io/Office_S_Tips/>
+
+
 
 Jekyll_app1htmlFile
 ==================================
@@ -21,3 +31,4 @@ Jekyll_app1htmlFile
 1-plikowe aplikacje html
 
 - <https://andrzejq.github.io/Jekyll_app1htmlFile/>
+
