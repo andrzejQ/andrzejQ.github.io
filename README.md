@@ -6,17 +6,13 @@ markdown+mathjax in-browser editor/viewer
 
 Markdown (marked.js) + MathJax HTML preview file.
 
-- Demo:
-	- <https://andrzejQ.github.io/markdown-mathjax/editor/md-mhj.html>
-- Source:
-	- <https://github.com/andrzejQ/markdown-mathjax>
+- Demo: <https://andrzejQ.github.io/markdown-mathjax/editor/md-mhj.html>
+- Source: <https://github.com/andrzejQ/markdown-mathjax>
 
 jekyll + mathjax test
 ==================================
 
-Jekyll kramdown + mathjax (tex2jax, asciimath2jax) test
-
-- <https://andrzejq.github.io/jekyll_1/>
+Jekyll kramdown + mathjax (tex2jax, asciimath2jax) test: <https://andrzejq.github.io/jekyll_1/>
 
 
 Office_S_Tips
