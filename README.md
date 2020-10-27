@@ -1,4 +1,4 @@
-[Jekyll](https://jekyllrb.com/) + [staticman](https://staticman.net/) comments as in [Adding Staticman Comments](https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html)
+[Jekyll](https://jekyllrb.com/) + [staticman](https://staticman.net/) comments (see [Adding Staticman Comments](https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html))
 
 
 markdown+mathjax in-browser editor/viewer
